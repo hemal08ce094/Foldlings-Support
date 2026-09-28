@@ -8,6 +8,7 @@ Foldlings is a small, calm game about pressing bits of nature together. Start wi
 
 ## Artwork
 
+- [App icon](press/app-icon.png)
 - [Banner](press/hero-banner.png)
 - [All 58 creatures](press/creature-family.png)
 - [iPhone: Water + Fire = Steam](press/iphone-1-water-fire-steam.jpg)
